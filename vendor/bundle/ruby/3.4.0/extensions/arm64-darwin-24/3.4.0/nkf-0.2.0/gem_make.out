@@ -1,0 +1,18 @@
+current directory: /Volumes/Amit/Projects/AwesomeProject/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Volumes/Amit/Projects/AwesomeProject/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250521-48506-2pifrl sitelibdir\=./.gem.20250521-48506-2pifrl clean
+
+current directory: /Volumes/Amit/Projects/AwesomeProject/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250521-48506-2pifrl sitelibdir\=./.gem.20250521-48506-2pifrl
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Volumes/Amit/Projects/AwesomeProject/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250521-48506-2pifrl sitelibdir\=./.gem.20250521-48506-2pifrl install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250521-48506-2pifrl
+
+current directory: /Volumes/Amit/Projects/AwesomeProject/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250521-48506-2pifrl sitelibdir\=./.gem.20250521-48506-2pifrl clean
